@@ -16,5 +16,3 @@ triggerMessage.SetActions([new PrintMessageAction("New message recived!")]);
 
 
 chest.StartUpdate(17);
-
-Console.WriteLine(chest.Triggers.Count);
